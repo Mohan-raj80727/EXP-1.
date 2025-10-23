@@ -1,4 +1,6 @@
 ### Experiment 1: Decentralized Certificate Verification
+### NAME : MOHAN RAJ.S
+### REG NO: 212224100036
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
@@ -39,5 +41,11 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
+# OUTPUT:
+<img width="1576" height="807" alt="image" src="https://github.com/user-attachments/assets/4726f131-4587-4ffa-aabd-1c7e608330b7" />
+<img width="1573" height="813" alt="image" src="https://github.com/user-attachments/assets/844f45f9-a970-498e-938b-2568d450cf37" />
+
+
 # Result:
+Thus, to develop a smart contract for issuing and verifying academic certificates on Ethereum,preventing forgery and ensuring authenticity is done successfully.
 
